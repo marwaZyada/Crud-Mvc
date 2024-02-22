@@ -1,0 +1,8 @@
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.csproj.AssemblyReference.cache
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.AssemblyInfoInputs.cache
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.AssemblyInfo.cs
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.csproj.CoreCompileInputs.cache
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.RazorAssemblyInfo.cache
+D:\asp.net\ASP.Net\assignment\Company.PL\obj\Debug\net5.0\2.RazorAssemblyInfo.cs

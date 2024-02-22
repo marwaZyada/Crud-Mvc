@@ -1,0 +1,29 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="Edit">
+
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="Fname"></label>
+    <input class="form-control" asp-for="Fname" />
+    <span asp-validation-for="Fname" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label class="col-form-label" asp-for="Lname"></label>
+    <input class="form-control" asp-for="Lname"  />
+    <span asp-validation-for="Lname" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label" asp-for="PhoneNumber"></label>
+    <input class="form-control" asp-for="PhoneNumber"  />
+    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+</div>
+    <input type="submit" value="Edit" class="btn btn-primary" />||<a asp-action="Index" class="btn btn-primary">Back To List</a>
+</form>

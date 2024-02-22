@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Company.PL",
+    "\\Company.PL\\Controllers",
+    "\\Company.PL\\ViewModels",
+    "\\Company.PL\\Views",
+    "\\Company.PL\\Views\\Account",
+    "\\Company.PL\\Views\\Employee",
+    "\\Company.PL\\Views\\Role"
+  ],
+  "SelectedNode": "\\Company.PL\\Views\\Role\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
